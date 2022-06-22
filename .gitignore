@@ -2,6 +2,10 @@ build
 # testing
 /coverage
 
+# IntelliJ IDEA
+.idea
+*.iml
+
 # production
 /build
 
